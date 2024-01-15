@@ -1,0 +1,15 @@
+workshop-jenkins
+    username: root
+    password: root1234
+    ip:192.168.100.111
+    url: jenkins-workshop.krafters.dev
+      username: root
+      password: root1234
+workshop-ubuntu-server
+    username: root
+    password: root1234
+    ip:192.168.100.112
+workshop-bastion-host
+    username: root
+    password: root1234
+    ip:192.168.100.115
